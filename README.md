@@ -9,7 +9,7 @@ KPI's in this dashboard
 
 3.Total Revenue: Total amount generated from bookings
 
-4. Total Night stay: Total number of nights booked by customers.
+4.Total Night stay: Total number of nights booked by customers.
  
 5.Average Room Rate:Rate of a room per day.
 
